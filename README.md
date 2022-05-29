@@ -4,7 +4,7 @@
 1. Go to your browser 
 2. Done 
 #### Can't find the information you want on my website? 
- _Hello my name is Google_
+ _Hello my name is Google:_
 [Click here](www.google.com) 
 ### Goodbye  
 g
