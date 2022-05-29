@@ -1,8 +1,9 @@
 # README 
 ## Paul's Website 
-* Please visit! 
+### Please visit! 
 1. Go to your browser 
 2. Done 
-* _Hello my name is Paul_
+#### Can't find the information you want on my website? 
+ _Hello my name is Google_
 [Click here](www.google.com) 
 ### Goodbye  
